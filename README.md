@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Limbadri</h1>
 <h3 align="center">A passionate DevOps engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=limbadri-goud&label=Profile%20views&color=0e75b6&style=flat" alt="limbadri-goud" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=limbadri-goud" alt="limbadri-goud" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=limbadri-goud&label=Profile%20views&color=0e75b6&style=flat" alt="Limbadri-goud" /> </p>
 
 - 🔭 I’m currently working on **Azure**
 
